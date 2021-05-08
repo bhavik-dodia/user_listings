@@ -1,16 +1,13 @@
-# user_listings
+# 🧾 User Listings
 
-A new Flutter project.
+Simple app which shows list of users and provides functionalities to add/delete a perticular user.
 
-## Getting Started
+## 🖼 Screens
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Light mode 🌞                                                                                      | Dark mode 🌚                                                                                            |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/auth-light.png?raw=true" >     | <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/auth-dark.png?raw=true" >     |
+| <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/home-light.png?raw=true" >     | <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/home-dark.png?raw=true" >     |
+| <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/menu-light.png?raw=true" > | <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/menu-dark.png?raw=true" > |
+| <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/new_user-light.png?raw=true" >  | <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/new_user-dark.png?raw=true" >  |
+| <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/delete-light.png?raw=true" > | <img src="https://github.com/bhavik-dodia/user_listings/blob/master/screenshots/delete-dark.png?raw=true" > |
